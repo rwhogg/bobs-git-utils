@@ -1,4 +1,7 @@
 #!/bin/bash
 
+gitroot="$(git root)"
+cd "$gitroot"
+pwd
 git status --porcelain |  grep '^??' | awk '{print $2}' | xargs rm
 
