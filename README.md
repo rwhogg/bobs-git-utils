@@ -12,5 +12,5 @@ On Linuxbrew or Homebrew:
 
 ```bash
 % brew tap rwhogg/bob
-% brew install rwhogg/bobs-git-utils
+% brew install bobs-git-utils
 ```
