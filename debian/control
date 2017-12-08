@@ -1,0 +1,12 @@
+Source: bobs-git-utils
+Section: devel
+Priority: optional
+Maintainer: Bob W. Hogg <rwhogg@linux.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+
+Package: bobs-git-utils
+Architecture: any
+Depends: git-core, git-extras
+Description: Bob W. Hogg's Git utilities
+Bob W. Hogg's Git utilities.
