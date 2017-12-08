@@ -1,3 +1,5 @@
 .debhelper
 *debhelper.log
 debian/files
+debian/bobs-git-utils.substvars
+debian/bobs-git-utils/
