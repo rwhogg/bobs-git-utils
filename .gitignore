@@ -1,2 +1,3 @@
 .debhelper
 *debhelper.log
+debian/files
