@@ -9,4 +9,4 @@ Package: bobs-git-utils
 Architecture: any
 Depends: git-core, git-extras
 Description: Bob W. Hogg's Git utilities
-Bob W. Hogg's Git utilities.
+  Bob W. Hogg's Git utilities.
