@@ -1,2 +1,8 @@
+.phony: install
+
+dummy:
+	true # keep dpkg-buildpackage happy
+
 install:
-	install git-* /usr/bin
+	mkdir -p $(DESTDIR)/usr/bin
+	install git-* $(DESTDIR)/usr/bin
