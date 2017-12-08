@@ -7,6 +7,6 @@ Standards-Version: 3.9.8
 
 Package: bobs-git-utils
 Architecture: any
-Depends: git-core, git-extras, ${shlibs:Depends}, ${misc:Depends}
+Depends: git-core, git-extras
 Description: Bob W. Hogg's Git utilities
   Bob W. Hogg's Git utilities.
