@@ -1,4 +1,4 @@
-.phony: install
+.phony: install dummy deb
 
 prefix=/usr/local
 exec_prefix=$(prefix)
@@ -14,3 +14,6 @@ dummy:
 install:
 	mkdir -p $(DESTDIR)/$(bindir)
 	install bin/git-* $(DESTDIR)/$(bindir)
+
+deb:
+	dpkg-buildpackage -uc -us
