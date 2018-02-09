@@ -1,3 +1,8 @@
+bobs-git-utils (0.10) artful; urgency=medium
+  * Add a man page
+
+ -- Bob Wombat Hogg <rwhogg@linux.com>  Fri, 09 Feb 2018 19:18:23 -0800
+
 bobs-git-utils (0.9) unstable; urgency=medium
   * Fix a bug in git-curbranch that chokes on arbitrary commits
 
