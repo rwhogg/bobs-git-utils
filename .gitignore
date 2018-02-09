@@ -3,3 +3,5 @@
 debian/files
 debian/bobs-git-utils.substvars
 debian/bobs-git-utils/
+man/man1/*.html
+man/man1/*.1
