@@ -1,7 +1,7 @@
 Source: bobs-git-utils
 Section: devel
 Priority: optional
-Maintainer: Bob Wombat Hogg <rwhogg@linux.com>
+Maintainer: Bob Wombat Hogg <wombat@rwhogg.site>
 Build-Depends: debhelper (>= 9), ruby-ronn
 Standards-Version: 3.9.8
 
