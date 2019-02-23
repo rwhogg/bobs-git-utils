@@ -2,5 +2,4 @@
 
 gitroot="$(git root)"
 cd "$gitroot"
-git status --porcelain |  grep '^??' | awk '{print $2}' | xargs rm
-
+git status --porcelain |  grep '^??' | awk '{print $2}' | xargs rm -r
