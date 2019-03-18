@@ -8,7 +8,7 @@ git-unchange(1) -- wipe out all uncommited changes to a file
 ## DESCRIPTION
 
 **git-unchange** wipes out all uncommitted changes to the given
-files, whether they're currently staged for commit or not.
+files, whether they're currently staged for commit or not.ssfdfsfd
 
 If given a directory, it will affect every file in that directory (recursively).
 
@@ -18,7 +18,7 @@ Report bugs to https://github.com/rwhogg/bobs-git-utils/issues
 
 ## COPYRIGHT
 
-Copyright 2016 - 2018, Bob Wombat Hogg. All Rights Reserved.
+Copyright 2016 - 2018, Bob Wombat Hogg. All Rights Reserved.fsdgdfg
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 

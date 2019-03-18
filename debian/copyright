@@ -3,7 +3,7 @@ Upstream-Name: bobs-git-utils
 Source: https://github.com/rwhogg/bobs-git-utils
 
 Files: *
-Copyright: 2016 - 2018, Bob W. Hogg. All Rights Reserved.
+Copyright: 2016 - 2019, Bob W. Hogg. All Rights Reserved.
 License: BSD-2-Clause
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
