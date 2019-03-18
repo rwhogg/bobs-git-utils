@@ -1,3 +1,8 @@
+bobs-git-utils (0.11) artful; urgency=medium
+  * Make git-delete-untracked recursive
+
+ -- Bob Wombat Hogg <wombat@rwhogg.site>  Fri, 23 Feb 2019 19:18:23 -0800
+
 bobs-git-utils (0.10) artful; urgency=medium
   * Add a man page
 
