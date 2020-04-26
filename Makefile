@@ -12,7 +12,7 @@ dummy: docs
 	true # keep dpkg-buildpackage happy
 
 docs:
-	ronn man/man1/*.1.ronn
+	scdoc < man/man1/git-unchange.1.scd > man/man1/git-unchange.1
 
 install:
 	mkdir -p $(DESTDIR)/$(bindir)
