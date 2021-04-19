@@ -1,0 +1,18 @@
+name: "bobs-git-utils"
+arch: "amd64"
+platform: "linux"
+version: "v0.12"
+section: "default"
+priority: "medium"
+maintainer: "Bob Wombat Hogg <wombat@rwhogg.site>"
+description: |
+  Git utilities
+vendor: "Bob Wombat Hogg"
+homepage: "https://github.com/rwhogg/bobs-git-utils"
+license: "BSD-2-Clause"
+contents:
+- src: ./bin
+  dst: /usr/bin
+- src: ./man/man1
+  dst: /usr/share/man/man1
+# Fixme, needs ruby and git extras
