@@ -21,4 +21,4 @@ install:
 	install man/man1/*.1 $(DESTDIR)/$(man1dir)
 
 deb:
-	dpkg-buildpackage -uc -us
+	nfpm pkg -p deb
