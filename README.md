@@ -13,3 +13,7 @@ To build the documentation, you'll also need scdoc.
 ```bash
 % sudo make install
 ```
+
+## Making a Debian Package
+
+Run `make deb`. You'll need nfpm.
