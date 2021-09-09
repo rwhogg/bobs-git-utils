@@ -22,3 +22,7 @@ install:
 
 deb:
 	nfpm pkg -p deb
+
+rpm:
+	nfpm pkg -p rpm
+
